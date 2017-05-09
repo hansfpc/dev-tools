@@ -16,3 +16,10 @@
 ### Frontend
 
 - [React Cheat Sheet](https://reactcheatsheet.com/) 
+
+### Leyes relativas a los proyectos de desarrollo de software (Chile)
+
+- Ley de protección de datos de carácter personal (¿19.628?)
+- Ley de Protección de la vida privada (19.628)
+- Ley que tipifica figuras penales relativas a la Informática (19.223)
+- Ley de Propiedad intelectual (17.336)
