@@ -16,6 +16,7 @@
 ### Frontend
 
 - [React Cheat Sheet](https://reactcheatsheet.com/) 
+- [Tippyjs - JS Tooltip Library](https://github.com/atomiks/tippyjs) 
 
 ### Leyes relativas a los proyectos de desarrollo de software (Chile)
 
